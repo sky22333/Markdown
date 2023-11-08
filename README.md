@@ -47,13 +47,13 @@ Markdown提供了插入单个强行换行符的方法：
 
 
 
-Markdown语法教程
+# Markdown语法教程
 
 
 
 
 
-# 概述
+### 概述
 
 据 GitHub Flavored Markdown（GFM）官方文档介绍，Markdown是由约翰·格鲁伯（John Gruber）在亚伦·斯沃茨（Aaron Swartz）的帮助下开发，并在2004年发布的标记语言。
 其设计灵感主要来源于纯文本电子邮件的格式，目标是让人们能够使用易读、易写的纯文本格式编写文档，而且这些文档可以转换为HTML（Hyper Text Markup Language，超文本标记语言）文档。
