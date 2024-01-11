@@ -825,7 +825,7 @@ int age = 18;
 
 
 
-**github**
+**github不支持**
 
 语法说明如下。
 1）TOC是Table of Contents的缩写。
