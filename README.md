@@ -20,8 +20,7 @@ Typora是一款功能全面、简洁高效，而且又非常优雅的Markdown编
 下载地址：https://typora.io/#download。
 
 
-
-**空格**
+###  空格
 
 连续空格类似于单行换行符，大多数Markdown引擎都会忽略它们。
 
